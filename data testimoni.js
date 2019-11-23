@@ -27,6 +27,18 @@ var dataOrder = {
         "template": "CV Desain CV022",
         "templateURL": "https://jasacvpurwokerto.blogspot.com/2019/11/desain-cv022.html",
     },    
-    
-    
+    "0877-24....93": {
+        "screenshotURL": "https://www.instagram.com/p/B4ngTncns8w/",
+        "avaURL": "https://1.bp.blogspot.com/-KJdPuhqqduE/XdkHGIK-LyI/AAAAAAAAA1w/GEXOCHn5k0wbQ8eKxqh604CaapBRxdBzwCLcBGAsYHQ/s1600/WhatsApp%2BImage%2B2019-11-02%2Bat%2B10.23.53%2B%25281%2529.jpeg",
+        "time": "2019-11-09",
+        "template": "CV Desain CV012",
+        "templateURL": "https://jasacvpurwokerto.blogspot.com/2019/11/desain-cv012.html",
+    },       
+     "08..75..55..": {
+        "screenshotURL": "https://www.instagram.com/p/B4ngQn5n6z7/",
+        "avaURL": "https://1.bp.blogspot.com/-vQuHHDTCyVM/XdkHwPoHmoI/AAAAAAAAA14/VuasNURi-rwVq9W9HJjMqydKQBTUhIeKQCLcBGAsYHQ/s1600/IMG-20191018-WA0023.jpg",
+        "time": "2019-11-09",
+        "template": "CV Desain CV004",
+        "templateURL": "https://jasacvpurwokerto.blogspot.com/2019/11/desain-cv004.html",
+    },       
 };
