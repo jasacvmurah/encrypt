@@ -1,23 +1,26 @@
 var dataOrder = {
-    "+62 878-6354-66...": {
-        "screenshotURL": "https://lh3.googleusercontent.com/u/0/d/1Ivhr9Wc6ftJzWmewbZZ1uyZXqYhhaHr9=w500",
-        "avaURL": "",
-        "time": "2019-05-23",
-        "template": "LITE Media - Premium Blogger Template",
-        "templateURL": "https://www.seotemplate.web.id/2019/06/lite-media-premium-blogger-template.html",
+    "0877-3523....": {
+        "screenshotURL": "https://www.instagram.com/p/B4ngsplnPul/",
+        "avaURL": "https://1.bp.blogspot.com/-SspZsHqsMVw/XdkDSecPLdI/AAAAAAAAA1I/w2tkTA3D5o4ZiNrYB5KqJJQx5aTZ1xEpwCLcBGAsYHQ/s1600/WhatsApp%2BImage%2B2019-11-08%2Bat%2B20.20.03.jpeg",
+        "time": "2019-11-09",
+        "template": "CV Desain CV004",
+        "templateURL": "https://jasacvpurwokerto.blogspot.com/2019/11/desain-cv004.html",
     },
-    "+62 823-5211-47...": {
-        "screenshotURL": "https://i.ibb.co/m8XzsL1/image.png",
-        "avaURL": "https://i.ibb.co/gD3svLG/image.png",
-        "time": "2019-07-21",
-        "template": "TOKO WhatsApp - Premium Blogger Template",
-        "templateURL": "https://www.seotemplate.web.id/2019/05/toko-whatsapp-premium-blogger-template.html",
+    "Indri W": {
+        "screenshotURL": "https://www.instagram.com/p/B4ngmLCndAz/",
+        "avaURL": "https://1.bp.blogspot.com/-C0kenaAxjJ4/XdkAZ4AA0_I/AAAAAAAAA08/CzXcoR7zp-8Ovs6xtR917dF7zWnZIXh5gCLcBGAsYHQ/s1600/ava.png",
+        "time": "2019-11-09",
+        "template": "CV Desain CV013",
+        "templateURL": "https://jasacvpurwokerto.blogspot.com/2019/11/desain-cv013.html",
     },
-    "+62 822-7137-98...": {
-        "screenshotURL": "https://i.ibb.co/QCKXJhL/image.png",
-        "avaURL": "https://i.ibb.co/F0sbBxx/image.png",
-        "time": "2019-06-15",
-        "template": "TOKO WhatsApp - Premium Blogger Template",
-        "templateURL": "https://www.seotemplate.web.id/2019/05/toko-whatsapp-premium-blogger-template.html",
+    "Naufal": {
+        "screenshotURL": "https://www.instagram.com/p/B4ngkTwnLOi/",
+        "avaURL": "https://1.bp.blogspot.com/-C0kenaAxjJ4/XdkAZ4AA0_I/AAAAAAAAA08/CzXcoR7zp-8Ovs6xtR917dF7zWnZIXh5gCLcBGAsYHQ/s1600/ava.png",
+        "time": "2019-11-09",
+        "template": "CV Desain CV004",
+        "templateURL": "https://jasacvpurwokerto.blogspot.com/2019/11/desain-cv004.html",
     },
+    
+    
+    
 };
